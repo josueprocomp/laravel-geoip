@@ -1,3 +1,5 @@
+### Temporary forked repository created for personal use with support for Laravel 11. May not work correctly or may be missing dependencies. It is recommended not to use.
+
 # GeoIP for Laravel
 
 [![Build Status](https://travis-ci.org/Torann/laravel-geoip.svg?branch=master)](https://travis-ci.org/Torann/laravel-geoip)
